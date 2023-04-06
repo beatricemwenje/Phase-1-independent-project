@@ -1,4 +1,4 @@
-# Phase-1-independent-project
+# DIGITAL CLOCK.
 
 # PREREQUISITES.
 The reader should have a basic knowledge of:
